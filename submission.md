@@ -6,7 +6,7 @@ I used AI to help orient myself in the codebase, to generate the basic remplte o
 
 I used it to clarify programming questions like what are the possible values of today.weekday() when reproducing the bug, and understand how requests move from Flask routes into service functions. I also used it to help generate test scripts from the snippets of code I wrote for debugging to help refine my testing in an independent compiler, and refine the formalism for this md file.  
 
-I verified the explanations by reading the actual source files and comparing them with the README and project brief. and to my tracing and testing. 
+I verified the explanations by reading the actual source files and comparing them with the README and project brief. and to my tracing and testing. Lastly, I also used AI to help me think of commit messages for brainstorming. 
 
 ## Codebase Map
 
